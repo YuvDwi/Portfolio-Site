@@ -12,12 +12,12 @@ function App() {
     <>
       <Background />
       <NameHeader />
+      <NameFlash />
       <Navbar />
       <MainContent />
       <Education />
       <Experience />
       <Projects />
-      <NameFlash />
     </>
   )
 }

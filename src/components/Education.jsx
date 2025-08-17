@@ -34,7 +34,6 @@ const Education = () => {
         position: 'absolute',
         top: '440px', // Decreased from 480px to move Education up a bit
         left: '50%',
-        transform: 'translateX(-50%)', // Center horizontally
         zIndex: 10,
         width: '90%', // Use percentage for better responsiveness
         maxWidth: '1200px', // Maximum width constraint

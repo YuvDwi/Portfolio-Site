@@ -42,7 +42,6 @@ const Experience = () => {
         position: 'absolute',
         top: '690px', // Increased very slightly from 680px
         left: '50%',
-        transform: 'translateX(-50%)', // Center horizontally
         zIndex: 10,
         width: '90%', // Use percentage for better responsiveness
         maxWidth: '1200px', // Maximum width constraint

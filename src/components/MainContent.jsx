@@ -22,7 +22,6 @@ const MainContent = () => {
         position: 'absolute',
         top: '180px', // Increased from 140px to move MainContent down
         left: '50%',
-        transform: 'translateX(-50%)',
         textAlign: 'left',
         width: '90%',
         minWidth: '320px',
