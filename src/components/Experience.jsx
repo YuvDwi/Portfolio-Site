@@ -28,7 +28,7 @@ const Experience = () => {
       company: "Reality Labs",
       role: "ML Developer",
       location: "Waterloo, ON",
-      description: "Developed quantitative finance algorithms and trading strategies using Python and mathematical libraries. Built React-based dashboards for financial data visualization and implemented database solutions with PostgreSQL and Docker.",
+      description: "Developed telemetry system to monitor and collect performance metrics from sensor data",
       logo: "/Reality.png"
     }
   ];
